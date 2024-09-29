@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248576821864",
+    "project_id": "weather-fe50b",
+    "storage_bucket": "weather-fe50b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248576821864:android:34e153a0a797449e8c09dd",
+        "android_client_info": {
+          "package_name": "com.dtran.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBtH_VNRWL8CZM6PSMlNqyKEUFlJv5lOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
